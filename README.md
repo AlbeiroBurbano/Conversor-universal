@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Conversor de unidades
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es un convertidor de unidades desarrollado con React, que permite a los usuarios realizar conversiones de temperatura, longitud, tiempo, masa y volumen de manera rápida y sencilla.
 
-## Available Scripts
+## Características
+- Conversión de unidades de temperatura: Celsius, Fahrenheit.
+- Conversión de unidades de longitud: metros, pies.
+- Conversión de unidades de tiempo: segundos, minutos.
+- Conversión de unidades de masa: kilogramos, libras.
+- Conversión de unidades de volumen: litros, galones.
 
-In the project directory, you can run:
+## Uso
+1. Selecciona el tipo de unidad que deseas convertir (temperatura, longitud, tiempo, masa o volumen).
+2. Selecciona las unidades de origen y destino.
+3. Ingresa el valor que deseas convertir en la unidad de origen.
+4. Haz clic en el botón "Convertir" para obtener el resultado de la conversión.
+5. El resultado de la conversión se mostrará en la pantalla.
 
-### `npm start`
+## Tecnologías Utilizadas
+- React: Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+- JSX: Sintaxis de JavaScript que permite escribir elementos de React en código JavaScript.
+- CSS: Hojas de estilo para el diseño y la presentación de la aplicación.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Contribución
+Tu apoyo es fundamental para mantener y mejorar mis proyectos. Si deseas contribuir, puedes hacerlo a través de [Buy Me a Coffee](https://www.buymeacoffee.com/albeirojbtr). Cada aporte es muy valorado y ayuda a continuar con el desarrollo y la mejora constante.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Autor
+Hola, mi nombre es Albeiro Burbano. Soy un apasionado de la tecnología y freelancer especializado en hacer que las ideas cobren vida a través de soluciones innovadoras.
 
-### `npm test`
+Como freelancer, me especializo en crear aplicaciones móviles y sitios web modernos y funcionales que cautivan a los usuarios con experiencias excepcionales. Además, ofrezco servicios de QA Testing para garantizar la calidad y fiabilidad de tus productos, asegurando una experiencia de usuario sin contratiempos.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[Conoce un poco más de mi trabajo](https://github.com/AlbeiroBurbanoTobar/ppi_pl_BurbanoA).
 
-### `npm run build`
+## ¿Hablamos?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Si estás buscando a alguien comprometido, apasionado por la tecnología y listo para llevar tu proyecto al siguiente nivel, aquí estoy.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **LinkedIn**: [Conéctate conmigo](http://www.linkedin.com/in/albeiro-jose-burbano-tobar-759ba4297)
+- **GitHub**: [Revisa mi código](https://github.com/AlbeiroBurbanoTobar)
+- **Upwork**: [Ve mi perfil en Upwork](https://www.upwork.com/freelancers/~017e0544b7ea64d6c0?mp_source=share)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Gracias por detenerte en mi perfil. ¡Espero con interés la posibilidad de trabajar juntos!
+- **Freelancer**: [Ve mi perfil en Freelancer](https://www.freelancer.com/u/Albeiro73?sb=t)
+- **Stack Overflow**: [Visita mi perfil](https://stackoverflow.com/users/24090991/albeiro-burbano) 
+- **Correo**: [Escríbeme](mailto:albeirojbt@gmail.com)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
